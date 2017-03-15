@@ -1,0 +1,29 @@
+{
+  "name": "relogio-analogico",
+  "version": "1.0.0",
+  "description": "relogio analogico 24h",
+  "main": "gulp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danillosl/relogio-analogico.git"
+  },
+  "keywords": [
+    "html5",
+    "javascript",
+    "css3",
+    "canvas"
+  ],
+  "author": "Danillo Sardinha de Lisboa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danillosl/relogio-analogico/issues"
+  },
+  "homepage": "https://github.com/danillosl/relogio-analogico#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1"
+  }
+}
