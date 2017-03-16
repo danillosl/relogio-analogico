@@ -1,5 +1,11 @@
 # relogio-analogico
-relogio analogico feito em html5 canvas e javascript
+Relógio Analógico desenvolvido utilizando:
+-html5
+-canvas
+-bootstrap
+-jquery
+-javascript
+-gulp
 
 ### Instalação
 
@@ -12,4 +18,4 @@ $ npm install
 $ npm start
 ```
 
-O servidor deve estar acessivel em [http://localhost:3000]: <http://localhost:3000>.
+O servidor deve estar acessivel em [http://localhost:3000]:<http://localhost:3000>.
