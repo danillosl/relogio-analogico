@@ -19,3 +19,5 @@ $ npm start
 ```
 
 O servidor deve estar acessivel em [http://localhost:3000](http://localhost:3000).
+
+Ou acessar o servidor live em [http://relogio-analogico.s3-website-sa-east-1.amazonaws.com/](http://relogio-analogico.s3-website-sa-east-1.amazonaws.com/).
